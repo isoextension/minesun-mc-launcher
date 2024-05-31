@@ -1,4 +1,8 @@
-                                 Apache License
+WARNING: GNU GPL v3.0 is not used anymore!
+- isoextension
+
+                         Minesun Minecraft Launcher License
+                               Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
